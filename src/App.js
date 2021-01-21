@@ -25,7 +25,7 @@ function App() {
   }, []);
   const onCountryChange = async event => {
     const countryCode = event.target.value;
-    console.log(countryCode);
+    // console.log(countryCode);
     setCountry(countryCode);
   };
   return (
@@ -43,6 +43,8 @@ function App() {
           </Select>
         </FormControl>
       </div>
+
+      {/* InfoBoxes */}
     </div>
   );
 }
