@@ -7,7 +7,7 @@ This Project is a beginner friendly project I built using React. Some key Aspect
 - Line Chart shows fluctuations over days, hover around to see exact figures
 - Clickable Markers on Map show Country stats
 
-![](Covid Tracker.jpg)
+![alt text](https://github.com/hemu-switch/Covid-Tracker/blob/master/Covid%20Tracker.jpg)
 
 # Getting Started with Create React App
 
