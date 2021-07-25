@@ -1,5 +1,6 @@
-# Covid-19 Tracker App
 
+# Covid-19 Tracker App 
+Here is the link that is deployed https://covid-19-tracker-17b51.web.app/
 This Project is a beginner friendly project I built using React. Some key Aspects:
 
 - Shows Live Cases, Recoveries, Deaths (clickable tabs)
